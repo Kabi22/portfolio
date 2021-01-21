@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bedc57bb.chunk.css",
+    "main.js": "/portfolio/static/js/main.b2f643bc.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b2f643bc.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.0b48ed56.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.0b48ed56.js.map",
+    "static/js/2.a124766a.chunk.js": "/portfolio/static/js/2.a124766a.chunk.js",
+    "static/js/2.a124766a.chunk.js.map": "/portfolio/static/js/2.a124766a.chunk.js.map",
+    "static/js/3.6db402bf.chunk.js": "/portfolio/static/js/3.6db402bf.chunk.js",
+    "static/js/3.6db402bf.chunk.js.map": "/portfolio/static/js/3.6db402bf.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.bedc57bb.chunk.css.map": "/portfolio/static/css/main.bedc57bb.chunk.css.map",
+    "static/js/2.a124766a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a124766a.chunk.js.LICENSE.txt",
+    "static/media/Kabilan Balasubramani Resume (1).45f35458.pdf": "/portfolio/static/media/Kabilan Balasubramani Resume (1).45f35458.pdf",
+    "static/media/League.dbc25d12.jpg": "/portfolio/static/media/League.dbc25d12.jpg",
+    "static/media/labyrinth.a4cf8453.jpg": "/portfolio/static/media/labyrinth.a4cf8453.jpg",
+    "static/media/linkedin-statistics.20bd750a.png": "/portfolio/static/media/linkedin-statistics.20bd750a.png",
+    "static/media/music.1191be73.jpg": "/portfolio/static/media/music.1191be73.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b48ed56.js",
+    "static/js/2.a124766a.chunk.js",
+    "static/css/main.bedc57bb.chunk.css",
+    "static/js/main.b2f643bc.chunk.js"
+  ]
+}
